@@ -23,6 +23,6 @@
 
 <p>
 <img height="140" src="https://github-readme-stats.vercel.app/api?username=rayaneBSilva&show_icons=true&theme=radical">
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayaneBSilva&layout=compact&theme=radical">
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayaneBSilva&layout&show=compact&theme=radical">
 </div>
 </p>
