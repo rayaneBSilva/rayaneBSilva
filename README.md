@@ -1,11 +1,12 @@
 # Hi there I'm Rayane :)
 
+<img align="right" height="250" src="https://static.wikia.nocookie.net/anicrossbr/images/0/09/3699780-8637094330-Luffy.png/revision/latest?cb=20160626234330&path-prefix=pt-br" border="100">
+
 <p align="justify">
- 🔹Atualmente curso Ciência da Computação na Universidade Federal de Campina Grande. Gosto de muitas coisas na área de tecnologia, principalmente Segurança da Informação, Cibersegurança e Desenvolvimento Web.
+ :small_orange_diamond: Atualmente curso Ciência da Computação na Universidade Federal de Campina Grande. Gosto de muitas coisas na área de tecnologia, principalmente Segurança da Informação, Cibersegurança e Desenvolvimento Web.
 </p>
 <p align="justify">
- 🔹 Meus hobbies favoritos são assistir anime e lê muitos livros, pois não existe nada melhor nesse mundo do que vê o Luffy se tornando rei dos piratas.
-<img align="right" height="250" src="https://static.wikia.nocookie.net/anicrossbr/images/0/09/3699780-8637094330-Luffy.png/revision/latest?cb=20160626234330&path-prefix=pt-br" border="100">
+ :small_orange_diamond: Meus hobbies favoritos são assistir anime e lê muitos livros, pois não existe nada melhor nesse mundo do que vê o Luffy se tornando rei dos piratas.
 </p>
 
 ###  Minhas habilidades:
@@ -16,7 +17,12 @@
 <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' alt="Javascript">
 <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg' alt="Python">
 <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg' alt="Java">
-<img  width='40px' src="https://i.ibb.co/GPF3QsW/download.png" alt="download" border="0">
 </div>
 
+### Minhas estatísticas:
 
+<p>
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=rayaneBSilva&show_icons=true&theme=radical">
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayaneBSilva&layout=compact&theme=radical">
+</div>
+</p>
