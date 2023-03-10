@@ -6,7 +6,7 @@
  :small_orange_diamond: Atualmente curso Ciência da Computação na Universidade Federal de Campina Grande. Gosto de muitas coisas na área de tecnologia, principalmente Segurança da Informação, Cibersegurança e Desenvolvimento Web.
 </p>
 <p align="justify">
- :small_orange_diamond: Meus hobbies favoritos são assistir anime e lê muitos livros, pois não existe nada melhor nesse mundo do que vê o Luffy se tornando rei dos piratas.
+ :small_orange_diamond: Meus hobbies favoritos são assistir anime e ler muitos livros, pois não existe nada melhor nesse mundo do que ver o Luffy se tornando rei dos piratas.
 </p>
 
 ###  Minhas habilidades:
