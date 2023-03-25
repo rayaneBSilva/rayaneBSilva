@@ -22,7 +22,7 @@
 ### Minhas estatísticas:
 
 <div align="center">
-<img height="140" src="https://github-readme-stats.vercel.app/api?username=rayaneBSilva&show_icons=true&theme=react">
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=rayaneBSilva&show_icons=true&theme=dracula">
 
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayaneBSilva&layout=compact&theme=react">
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayaneBSilva&layout=compact&theme=dracula">
   </div>
