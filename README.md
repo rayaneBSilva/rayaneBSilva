@@ -1,4 +1,4 @@
-# Hi there I'm Rayane :)
+# Hi there I'm Rayane :):(
 
 <img align="right" height="250" src="https://static.wikia.nocookie.net/anicrossbr/images/0/09/3699780-8637094330-Luffy.png/revision/latest?cb=20160626234330&path-prefix=pt-br" border="100">
 
