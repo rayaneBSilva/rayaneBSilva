@@ -3,7 +3,7 @@
 <img align="right" height="250" src="https://static.wikia.nocookie.net/anicrossbr/images/0/09/3699780-8637094330-Luffy.png/revision/latest?cb=20160626234330&path-prefix=pt-br" border="100">
 
 <p align="justify">
- :small_orange_diamond: Atualmente curso Ciência da Computação na Universidade Federal de Campina Grande. Gosto de muitas coisas na área de tecnologia, principalmente Segurança da Informação, Visão Computacional e Desenvolvimento Web.
+ :small_orange_diamond: Atualmente curso Ciência da Computação na Universidade Federal de Campina Grande. Gosto de muitas coisas na área de tecnologia, principalmente Segurança da Informação, Robotica e Desenvolvimento Web.
 </p>
 <p align="justify">
  :small_orange_diamond: Meus hobbies favoritos são assistir anime e ler muitos livros, pois não existe nada melhor nesse mundo do que ver o Luffy se tornando rei dos piratas.
